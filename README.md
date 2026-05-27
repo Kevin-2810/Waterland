@@ -2,17 +2,13 @@
 
 #### Preview
 
- - [Demo](https://themewagon.github.io/WaterLand/)
+ - [Demo](https://kevin-2810.github.io/Waterland/)
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/waterland/)
- 
- 
 ## Getting Started
 
 Clone from GitHub 
 ```
-https://github.com/themewagon/WaterLand.git
+https://github.com/Kevin-2810/Waterland.git
 ```
 
 ## Author
@@ -20,10 +16,5 @@ https://github.com/themewagon/WaterLand.git
 Design and code are completely written by HTML Codex's design and development team.  
 
 
-## License
-
- - Design and Code is Copyright &copy; [HTML Codex](https://htmlcodex.com/)
- - Licensed under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
 
 
